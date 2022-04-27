@@ -13,7 +13,7 @@ This project is meant to show a visual representation of the COVID-19 cases and 
 ![covid rates map](img/covid-rates.png)
 
 ## Primary Functions
-
+- Both maps have clickable data points to show the exact number of cases and county name
 
 ## Libraries Used
 - [Map Box API](https://docs.mapbox.com/api/overview/)
